@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700; /* Use the 700 font weight for headings */
+}
+
+p {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400; /* Use the 400 font weight for paragraphs */
+}
